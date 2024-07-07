@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- ![athcds]((https://github.com/seyyaw/seyyaw/assets/1056051/d37e1c49-3f1a-4552-8ab7-ce0b7ea3707b)
 
 - 🔭 I’m currently working at [HCDS](https://www.hcds.uni-hamburg.de/en/hcds/head-hcds/yimam.html) as a Technical Lead
 - 📫 How to reach me: seid.muhie.yimam@uni-hamburg.de
